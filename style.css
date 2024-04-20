@@ -1,0 +1,66 @@
+.YL {
+    background-color: yellowgreen;
+    border: black solid 1px;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    font-size: 30px;
+    justify-content: space-around;
+    border: blueviolet solid 3px;
+    border-radius: 10px;
+    
+}
+
+
+nav a {
+ text-decoration: none;
+    color: black
+}
+
+a:hover {
+    color: yellowgreen;
+}
+
+body {
+    background-image: linear-gradient(to right, lightblue, gray);
+}
+
+.bf {
+    display: flex;
+    justify-content: center;
+}
+
+.kot {
+    display: flex;
+    justify-content: space-around;
+}
+
+.kot img {
+    border-radius: 30px;
+    width: 500px;
+}
+
+.katalog {
+    font-size: 40px ;
+    display: flex;
+    justify-content: space-around;
+}
+
+.food img {
+    width: 200px;
+    border-radius: 40%;
+}
+
+.food {
+    border: yellowgreen double 5px;
+    width: 200px;
+}
+
+.food p {
+    font-size: 20px;
+    text-align: center;
+}
